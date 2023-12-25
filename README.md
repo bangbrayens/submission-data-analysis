@@ -16,7 +16,19 @@ Proyek ini merupakan proyek Analisis Data pada dataset Bike Sharing. Hasil anali
 streamlit run dashboard.py
 ```
 
-
+## Streamlit Cloud 
+Link Streamlit Briyan: <a href='https://bike-sharing-dashboard-mbl.streamlit.app/' target='_blank' title='Bike Sharing Dashboard by Muhamad Briyan L | Streamlit'>Bike Sharing Dashboard by Muhamad Briyan Latuconsina</a>
 
 
 ## Berikut Tampilan atau hasil screenshot dari dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bangbrayens/submission-data-analysis/main/screenshot/ss1.png?raw=true" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bangbrayens/submission-data-analysis/main/screenshot/ss2.png?raw=true" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bangbrayens/submission-data-analysis/main/screenshot/ss3.png?raw=true" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bangbrayens/submission-data-analysis/main/screenshot/ss4.png?raw=true" />
