@@ -7,7 +7,7 @@ import datetime
 
 # Load dataset
 df = pd.read_csv(
-    "main_data.csv"
+    "https://raw.githubusercontent.com/bangbrayens/submission-data-analysis/main/dashboard/main_data.csv"
 )
 df["dateday"] = pd.to_datetime(df["dateday"])
 
@@ -127,7 +127,7 @@ max_date = df["dateday"].max()
 
 with st.sidebar:
     st.image(
-        "bike1.png"
+        "https://raw.githubusercontent.com/bangbrayens/submission-data-analysis/main/dashboard/bike1.png?raw=true"
     )
 
     start_date, end_date = st.date_input(
