@@ -13,12 +13,11 @@ Proyek ini merupakan proyek Analisis Data pada dataset Bike Sharing. Hasil anali
 
 
 ## Setup environment
-Untuk menginstal semua dependensi yang diperlukan, buka terminal/command prompt Anda, navigasikan ke folder proyek, dan jalankan perintah berikut:
-
 ```
-pip install -r requirements.txt
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas plotly matplotlib seaborn jupyter streamlit babel
 ```
-
 
 ## Run steamlit app
 ```
